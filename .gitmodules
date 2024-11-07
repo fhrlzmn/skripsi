@@ -1,0 +1,3 @@
+[submodule "pendekar"]
+	path = pendekar
+	url = git@github.com:fhrlzmn/pendekar.git
